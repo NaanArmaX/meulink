@@ -25,7 +25,7 @@ export default function Home(){
        
         <h2>Site criado em React e suas diversas bibliotecas Totalmente responsivo tanto para proporções menores de browers como para dispositivos mobiles , Com uso de Api (bitly) para encurtar os links</h2>
 <br><br/>
-        <h1>Landing Page : https://barber-sage.vercel.app/<h1/>
+        <h1>Landing Page : <a>https://barber-sage.vercel.app/<a/><h1/>
       </div>
         
 
