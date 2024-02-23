@@ -23,7 +23,9 @@ export default function Home(){
 
       <div className='AboutText'>
        
-      <h2>Site criado em React e suas diversas bibliotecas Totalmente responsivo tanto para proporções menores de browers como para dispositivos mobiles , Com uso de Api (bitly) para encurtar os links</h2>
+        <h2>Site criado em React e suas diversas bibliotecas Totalmente responsivo tanto para proporções menores de browers como para dispositivos mobiles , Com uso de Api (bitly) para encurtar os links</h2>
+<br><br/>
+        <h1>Landing Page : https://barber-sage.vercel.app/<h1/>
       </div>
         
 
